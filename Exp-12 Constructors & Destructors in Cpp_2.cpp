@@ -50,3 +50,18 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter MTT marks:91
+Enter DCLD marks:92
+Enter EDC marks:93
+Enter NT marks:94
+Enter SS marks:95
+
+MTT: 91
+DCLD: 92
+EDC: 93
+NT: 94
+SS: 95
+*/
