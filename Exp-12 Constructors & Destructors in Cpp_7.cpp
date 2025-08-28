@@ -23,3 +23,15 @@ int main(){
     }
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+*/
