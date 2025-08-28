@@ -54,3 +54,19 @@ class Book{
 
         return 0;
     }
+
+
+/*==========OUTPUTS==========
+Enter Book Name: Ikigai
+Enter Book Author: Hector-Garcia
+Enter Book Price: 900
+Book Name: Ikigai
+Book Author: Hector-Garcia
+Price: 900
+
+Copy constructor is called!
+Book Name: Ikigai
+Book Author: Hector-Garcia
+Price: 900
+
+*/
