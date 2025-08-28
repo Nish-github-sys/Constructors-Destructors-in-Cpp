@@ -159,7 +159,7 @@ This program defines a class **`Book`** with data members for book name, author,
   --Display the details of b2.
 7. End
 
-# Program-6: Destructor
+# Program-6: Destructor (counting no. of cars added and discarded)
 This program demonstrates the use of **constructors and destructors** with a **static counter**. Each time a `Car` object is created, the constructor increments `count` and displays the number of objects. When an object goes out of scope, the destructor is called, decrementing `count` and showing how many objects remain. It illustrates **object creation and destruction order in C++**.
 
 --> Algorithm:
