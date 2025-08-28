@@ -17,7 +17,9 @@ class Num{
     }
 
     void display(){
-        cout<<"Num-1: "<<num1<<endl<<"Num-2: "<<num2;
+        cout<<"Sum: "<<num1+num2<<endl;
+        cout<<"Difference: "<<num1-num2<<endl;
+        cout<<"Multiplication: "<<num1*num2<<endl;
     }
 };
 
@@ -28,3 +30,10 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Sum: 101
+Difference: -55
+Multiplication: 1794
+*/
