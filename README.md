@@ -194,10 +194,6 @@ This program shows the working of a **destructor** in C++. The class **`Date`** 
 # Conclusion
 Across these seven programs, we explored how constructors and destructors work in C++.
 
--Program 1 & 2 showed how a default constructor can be used to take input at object creation, and how a separate display() function outputs the data.
--Program 3 introduced a parameterized constructor, allowing initialization of objects with values passed during creation.
--Program 4 & 5 demonstrated the copy constructor, which duplicates the values of one object into another, ensuring object data can be cloned correctly.
--Program 6 illustrated the interaction of constructors and destructors using a counter to track object creation and destruction, emphasizing scope and lifetime of objects.
--Program 7 highlighted how a destructor is automatically invoked when objects go out of scope, including temporary objects inside loops.
+Program 1 & 2 showed how a default constructor can be used to take input at object creation, and how a separate display() function outputs the data. Program 3 introduced a parameterized constructor, allowing initialization of objects with values passed during creation. Program 4 & 5 demonstrated the copy constructor, which duplicates the values of one object into another, ensuring object data can be cloned correctly. Program 6 illustrated the interaction of constructors and destructors using a counter to track object creation and destruction, emphasizing scope and lifetime of objects. Program 7 highlighted how a destructor is automatically invoked when objects go out of scope, including temporary objects inside loops.
 
 Together, these programs provide a complete understanding of object lifecycle in C++, showing how data is initialized, copied, and cleaned up through constructors and destructors.
