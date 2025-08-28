@@ -38,3 +38,13 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Num-1: 23
+Num-2: 78
+
+Copy constructor is called!
+Num-1: 23
+Num-2: 78
+*/
